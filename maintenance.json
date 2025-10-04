@@ -1,5 +1,4 @@
-
 {
-  "maintenance": false,
-  "message": "Server sedang maintenance. Silakan coba lagi nanti."
+  "maintenance": true,
+  "message": "kena bypass cil"
 }
